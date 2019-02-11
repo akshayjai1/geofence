@@ -39,29 +39,15 @@ var runMaps = function() {
                 markerOptions: {
                     icon: 'images/beachflag.png'
                 },
-                // circleOptions: {
-                //     fillColor: '#ffff00',
-                //     fillOpacity: 0.2,
-                //     strokeWeight: 3,
-                //     clickable: false,
-                //     editable: true,
-                //     zIndex: 1
-                // },
+
                 polygonOptions: {
                     clickable: true,
                     draggable: true,
                     editable: true,
                     fillColor: '#ffff001a',
-                    fillOpacity: 0,
+                    fillOpacity: 0.5,
 
                 },
-                // rectangleOptions: {
-                //     clickable: true,
-                //     draggable: true,
-                //     editable: true,
-                //     fillColor: '#ffff00',
-                //     fillOpacity: 0.5,
-                // }
             });
 
             function clearSelection() {
