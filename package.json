@@ -1,0 +1,15 @@
+{
+  "name": "google-maps-geofence-complete-example",
+  "version": "1.0.0",
+  "description": "A Pen created at CodePen.io. You can find this one at https://codepen.io/SarasArya/pen/GoLWQR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "local-web-server": "^2.6.1"
+  }
+}
